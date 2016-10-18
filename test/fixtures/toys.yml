@@ -1,11 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
-  weight: 1
-  favorite: 
+goose:
+  name: 'paper-goose'
+  weight: 300
+  favorite: true
 
-two:
-  name: MyString
-  weight: 1
-  favorite: 
+sheep:
+  name: 'iron-sheep'
+  weight: 1000
+  favorite: false
